@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="common-library",
-    version="0.0.1",
+    version="0.0.2",
     description="common library",
     url="https://github.com/common-library/python",
     long_description="",
