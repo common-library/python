@@ -2,9 +2,9 @@ from setuptools import find_packages, setup
 
 setup(
     name="common-library",
-    version="0.0.1",
+    version="0.0.2",
     description="common library",
-    url="https://github.com/heaven-chp/common-library-python",
+    url="https://github.com/common-library/python",
     long_description="",
     long_description_content_type="text/markdown",
     author="heaven-chp",
