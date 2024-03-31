@@ -4,7 +4,7 @@ setup(
     name="common-library",
     version="0.0.1",
     description="common library",
-    url="https://github.com/heaven-chp/common-library-python",
+    url="https://github.com/common-library/python",
     long_description="",
     long_description_content_type="text/markdown",
     author="heaven-chp",
